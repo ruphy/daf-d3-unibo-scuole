@@ -147,7 +147,6 @@ function update(data, property) {
 	.append('div')
 	.attr('id', 'svgChartDiv')
 	.append('svg')
-	.attr('x', 100)
 	.attr('id', 'svgChart')
 	.attr('height', height)
 	.attr('width', width)
