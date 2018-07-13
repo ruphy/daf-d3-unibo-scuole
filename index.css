@@ -64,8 +64,9 @@ th {
     text-align: center;
 }
 
+
 #leftDiv {
-    width: 100%;
+    width: 300px;
     height: 100%;
     float: left;
     margin-left: 10%;
@@ -74,4 +75,5 @@ th {
 #rightDiv {
     margin-left: 20%;
     height: 100%;
+    width: 500px;
 }
