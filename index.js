@@ -152,7 +152,7 @@ function update(data, property) {
 	.attr('height', height)
 	.attr('width', width)
 	.append('g')
-	.attr('transform', 'translate(410,290)');
+	.attr('transform', 'translate(350,290)');
 
     var nodes = data.map((e) => {
 	// scale radius to fit on the screen
