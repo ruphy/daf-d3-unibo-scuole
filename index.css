@@ -40,7 +40,7 @@ div.tooltip {
     margin-left: 1%;
     margin-right: 5%;
     text-align: justify;
-    width: 225px;
+    width: 210px;
 }
 
 .instructions {
@@ -55,7 +55,7 @@ div.tooltip {
     text-decoration: none;
     display: block;
     font-size: 15px;
-    width: 230px;
+    width: 210px;
     border-radius: 10px;
     border: 3px solid white;
 }
