@@ -57,7 +57,7 @@ var width = 800,
     height = 700,
     padding = 2, // separation between same-color circles
     clusterPadding = 20, // separation between different-color circles
-    maxRadius = height*0.028;
+    maxRadius = height * 0.028;
 
 var radiusScale = d3.scaleLinear()
     .domain([0,1])
@@ -374,7 +374,6 @@ function printTooltip(d, b) {
             "Corso attivo: " + (d.immatricolabile ? "sì" : "no") + "</br>" +
 	    "Accesso: " + d.accesso +
 	    "<hr style='height:0;'>" +
-	    
 	    "<table style='width:100%'>" +
 	    "<tr><th>Bologna</th><th>Media Italia</th><th><b>Anno solare 2016</b></br></th></tr>" + 
             "<tr bgcolor='" + ((b.property==="p_fuoriregione")? "yellow" : "white") + "'><td><b>" + parse(100 * d.p_fuoriregione) + "</b></td><td>-</td><td>Percentuale di studenti internazionali o provenienti da altre regioni</td></tr>" +
