@@ -1,0 +1,3 @@
+Nome: 'Infografica sulle Scuole dell'Ateneo di Bologna'
+Descrizione: 'Utilizzando d3.js, questa infografica mostra la suddivisone dell'Ateneo di Bologna in Scuole e corsi di Laurea, e le percentuali di laureati che lavorano, studiano, si sono laureati in corso, hanno avuto esperienze all'estero o che provengono da regioni diverse dall'Emilia Romagna.'
+

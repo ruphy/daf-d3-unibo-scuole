@@ -1,7 +1,7 @@
 # Introduction
-This reposotory contains a visualization that uses data from the University of Bologna on the different Schools and courses. Data has been downloaded from [the open data portal of the University of Bologna](http://dati.comune.bologna.it/). Two datasets have been mrged: a dataset with indicators and a dataset with all courses available at the University of Bologna.
+This reposotory contains a visualization that uses data from the University of Bologna on the different Schools and courses. Data has been downloaded from [the open data portal of the University of Bologna](http://dati.comune.bologna.it/). Two datasets have been merged: a dataset with indicators and a dataset with all courses available at the University of Bologna.
 
-To see the visualization open the index.html file in your browser.
+To see the visualization open the index.html file in your browser or go [here](https://esterpantaleo.github.io/daf-d3-unibo-scuole/).
 
 # Data preprocessing
 ```
